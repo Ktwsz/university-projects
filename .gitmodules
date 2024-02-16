@@ -1,0 +1,21 @@
+[submodule "pendulum"]
+	path = pendulum
+	url = https://github.com/Ktwsz/pendulum
+[submodule "tutoring project"]
+	path = tutoring project
+	url = https://github.com/Ktwsz/RL_Soccer
+[submodule "geometric algorithms class"]
+	path = geometric algorithms class
+	url = https://github.com/Ktwsz/geometryki
+[submodule "geometric algorithms project"]
+	path = geometric algorithms project
+	url = https://github.com/Ktwsz/geo-projekt
+[submodule "java class"]
+	path = java class
+	url = https://github.com/Ktwsz/PO_2023_SR1500_DOROSZUK
+[submodule "graph algorithms"]
+	path = graph algorithms
+	url = https://github.com/Ktwsz/graph_algorithms
+[submodule "differential equations project"]
+	path = differential equations project
+	url = https://github.com/Ktwsz/finite-element-method
