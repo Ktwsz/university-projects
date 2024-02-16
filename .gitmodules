@@ -19,3 +19,9 @@
 [submodule "differential equations project"]
 	path = differential equations project
 	url = https://github.com/Ktwsz/finite-element-method
+[submodule "C hash map implementation"]
+	path = C hash map implementation
+	url = https://github.com/Ktwsz/hash-map
+[submodule "C integral calculator"]
+	path = C integral calculator
+	url = https://github.com/Ktwsz/integrals
