@@ -25,3 +25,6 @@
 [submodule "C integral calculator"]
 	path = C integral calculator
 	url = https://github.com/Ktwsz/integrals
+[submodule "rust class"]
+	path = rust class
+	url = https://github.com/Ktwsz/university_rust
