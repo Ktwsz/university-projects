@@ -25,3 +25,6 @@
 [submodule "C integral calculator"]
 	path = C integral calculator
 	url = https://github.com/Ktwsz/integrals
+[submodule "rustbonsai"]
+	path = rustbonsai
+	url = https://github.com/Ktwsz/rustbonsai
